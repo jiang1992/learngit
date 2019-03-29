@@ -1,0 +1,35 @@
+[33mcommit 4cfaca71ea9634c27e741fb8c91df808b1700344[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: jiang1992 <861924543@qq.com>
+Date:   Fri Mar 29 13:26:24 2019 +0800
+
+    remove text.txt
+
+[33mcommit f7d6b39aec82295972aabf7894f118e499ddba98[m
+Author: jiang1992 <861924543@qq.com>
+Date:   Fri Mar 29 13:24:18 2019 +0800
+
+    add test.txt
+
+[33mcommit 69a76f89007478cb59fe3f59c83e949d427aa59d[m
+Author: jiang1992 <861924543@qq.com>
+Date:   Fri Mar 29 12:40:28 2019 +0800
+
+    understand how stage works
+
+[33mcommit 21d078590c9d0219ba3d06312c8d8a20068ed3d6[m
+Author: jiang1992 <861924543@qq.com>
+Date:   Fri Mar 29 11:34:14 2019 +0800
+
+    append GPL
+
+[33mcommit c318a7c47728330a5efad1241be584d5a06ddb64[m
+Author: jiang1992 <861924543@qq.com>
+Date:   Fri Mar 29 11:32:01 2019 +0800
+
+    add distributed
+
+[33mcommit 0941dc41a79c24653c47fe26a0238ffdf1f50e37[m
+Author: jiang1992 <861924543@qq.com>
+Date:   Fri Mar 29 11:27:11 2019 +0800
+
+    wrote a readme file
